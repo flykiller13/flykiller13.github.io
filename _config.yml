@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
+title: Ron Yoffe
+description: Gameplay & Systems Engineer | C++ | Unreal Engine | Tools & Pipelines
 plugins:
 - jekyll-remote-theme
