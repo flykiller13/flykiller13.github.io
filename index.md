@@ -1,5 +1,4 @@
 
-## 👋 About Me
 Systems & Software Engineer with experience delivering complex Unreal Engine projects.  
 I specialize in gameplay systems, plugin architecture, tools development, and DevOps pipelines.  
 Shipped titles to Steam and consoles, built reusable plugins, and led developer teams.  
