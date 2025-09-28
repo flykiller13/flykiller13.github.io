@@ -1,7 +1,3 @@
-# Ron Yoffe  
-**Gameplay & Systems Engineer | C++ | Unreal Engine | Tools & Pipelines**
-
----
 
 ## 👋 About Me
 Systems & Software Engineer with experience delivering complex Unreal Engine projects.  
